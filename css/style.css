@@ -11,7 +11,7 @@ Primary style
 
 html {
   font-size: 62.5%;
-}
+}#709B2C
 
 body {
   font-size: 1.6rem;
@@ -279,7 +279,8 @@ Main Components
   content: "";
   display: table;
 }
-.cd-item-info b, .cd-item-info .cd-price, .cd-item-info .cd-new-price {
+.cd-item-info b, .cd-item-info .
+, .cd-item-info .cd-new-price {
   font-weight: bold;
   font-size: 2rem;
 }
@@ -294,7 +295,7 @@ Main Components
   float: right;
 }
 .cd-item-info .cd-price {
-  color: #a5d05e;
+  color: ##709B2C;
   position: relative;
   margin-left: 10px;
   -webkit-transition: color 0.2s;
